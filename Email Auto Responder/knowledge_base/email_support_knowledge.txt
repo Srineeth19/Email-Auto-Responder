@@ -1,0 +1,26 @@
+CUSTOMER SUPPORT KNOWLEDGE BASE
+
+ORDER STATUS AND DELIVERY
+The current status of an order must be checked using the order status tool.
+Do not guess delivery dates or tracking numbers.
+
+ORDER CANCELLATION
+Cancellation eligibility depends on the order status and the company's approved policy.
+Do not promise cancellation unless the order system confirms it.
+If the policy does not specify eligibility, the support team must verify it.
+
+RETURNS AND REFUNDS
+Return windows and refund timelines must follow the company's approved policy.
+Do not invent refund timelines.
+Do not claim a refund has been issued unless the payment or order system confirms it.
+If the policy does not provide the answer, the support team must verify it.
+
+CUSTOMER ACCOUNT INFORMATION
+Customer information should be retrieved from an approved customer information tool.
+Do not invent customer names or customer IDs.
+
+CUSTOMER EMAIL RESPONSES
+Responses should be professional, concise, polite, and helpful.
+Use retrieved knowledge for general support questions.
+Use verified tool results for current order information.
+If the knowledge base does not contain the answer, recommend verification by the support team.
